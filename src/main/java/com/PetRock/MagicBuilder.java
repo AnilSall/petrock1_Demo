@@ -2,6 +2,6 @@ package com.PetRock;
 
 public class MagicBuilder {
     public static int getLucky() {
-        return 77;
+        return 7;
     }
 }
